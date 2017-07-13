@@ -9,7 +9,7 @@ sudo apt-get install -y nodejs
 
 ### Get the source
 ```
-git clone git@github.com:Skylsmoi/webstorm.git
+git clone git@github.com:Skylsmoi/webstorm.git && cd webstorm
 ```
 
 ### install all dependencies
