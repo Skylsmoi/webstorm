@@ -22,6 +22,7 @@ npm install
 ```
 npm run servdev
 ```
+then open http://localhost:8083/
 ## OR
 ### Build all sources
 ```
