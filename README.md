@@ -18,6 +18,11 @@ npm install
 ```
 
 ## Build
+### Start dev serv
+```
+npm run servdev
+```
+## OR
 ### Build all sources
 ```
 npm run build
