@@ -9,7 +9,7 @@ sudo apt-get install -y nodejs
 
 ### Get the source
 ```
-git clone ssh://git@gitlab.algoo.fr:10022/apc/apcfrontend.git
+git clone git@github.com:Skylsmoi/webstorm.git
 ```
 
 ### install all dependencies
